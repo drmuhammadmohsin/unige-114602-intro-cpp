@@ -3,16 +3,7 @@
 **University of Genoa** · BSc Computer Engineering  
 **Lab Instructor:** Dr. Muhammad Mohsin  
 **Course Code:** 114602  
-**Language:** C++  
-**Official Page:** [corsi.unige.it](https://corsi.unige.it/en/off.f/2025/ins/71595)
-
----
-
-## About This Repository
-
-This repository contains **lab session materials** for the course *Introduction to Computer Science and Programming*. It includes lab instructions, starter code, and resources to support your learning.
-
-> Solutions, grades, past exam questions, and submission links are available on [AulaWeb](https://2025.aulaweb.unige.it/course/view.php?id=1141) only.
+**Language:** C++
 
 ---
 
@@ -46,11 +37,22 @@ This course provides the foundational knowledge of computer programming. Student
 
 | Lab | Topic | Materials |
 |-----|-------|-----------|
-| Lab 01 | Hello World & Getting Started | [→](labs/lab01/) |
-| Lab 02 | Variables, Data Types & I/O | [→](labs/lab02/) |
-| Lab 03 | Conditionals & Loops | [→](labs/lab03/) |
-
-*More labs will be added throughout the semester.*
+| Lab 01 | PC Usage & Setup | [→](labs/lab01-pc-usage/) |
+| Lab 02 | Visual Programming (Edublocks) | [→](labs/lab02-visual-programming/) |
+| Lab 03 | Loops & Functions | [→](labs/lab03-loops-functions/) |
+| Lab 04 | Text & Lists | [→](labs/lab04-text-lists/) |
+| Lab 05 | Von Neumann Architecture | [→](labs/lab05-von-neumann/) |
+| Lab 06 | Pseudocode & Grammar | [→](labs/lab06-pseudocode-grammar/) |
+| Lab 08 | VS Code Exercises | [→](labs/lab08-vscode-exercises/) |
+| Lab 10 | C++ Exercises | [→](labs/lab10-cpp-exercises/) |
+| Lab 11 | Functions in C++ | [→](labs/lab11-functions/) |
+| Lab 12 | Arrays & Functions | [→](labs/lab12-arrays-functions/) |
+| Lab 13 | Arrays & Structs | [→](labs/lab13-arrays-structs/) |
+| Lab 14 | Pointers | [→](labs/lab14-pointers/) |
+| Lab 15 | Hands-on Practice | [→](labs/lab15-hands-on-practice/) |
+| Lab 16 | Dynamic Allocation & Dynamic Arrays | [→](labs/lab16-dynamic-allocation/) |
+| Lab 17 | Disciplined Development with LLMs | [→](labs/lab17-llm-development/) |
+| Lab 18 | Disciplined Development with LLMs | [→](labs/lab18-llm-development/) |
 
 ---
 
